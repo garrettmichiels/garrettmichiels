@@ -13,6 +13,33 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+Add section about technologies:
+Tools and Technologies:
+Linux
+Spring JPA
+Spring Boot
+Git, GitHub, GitLab
+CI/CD Pipelines
+Bash Scripting
+Java
+Python
+OCaml
+SQL
+Redis
+MongoDB
+Postgresql
+FrontEnd: NodeJS, ReactJS
+VSCode
+IntelliJ
+Kubernetes
+Docker
+Kafka
+Postman
+Flyway
+Microservices
+Authentication
 -->
 
 🔭 I’m currently working on practicing for technical interviews and expanding my knowledgebase as an engineer.
