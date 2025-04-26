@@ -42,12 +42,10 @@ Microservices
 Authentication
 -->
 
-🔭 I’m currently working on practicing for technical interviews and expanding my knowledgebase as an engineer.
+🔭 I’m currently working as a software engineer and expanding my knowledgebase as an engineer.
 
-🌱 I’m currently learning Android Mobile App Development
+🌱 I’m currently learning GraphQL, Kafka, and more!
 
 👯 I’m looking to collaborate on opensource projects that can help me grow, learn new technologies, and learn about the innerworkings of larger projects.
 
 💬 Ask me about what I like to do for fun or about my other interests!
-
-📫 How to reach me: michielsgarrett@gmail.com
