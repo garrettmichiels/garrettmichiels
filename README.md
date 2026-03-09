@@ -44,7 +44,7 @@ Authentication
 
 🔭 I’m currently working as a software engineer and expanding my knowledgebase as an engineer.
 
-🌱 I’m currently learning GraphQL, Kafka, and more!
+🌱 I’m looking to get more customer facing and to grow my understanding of product!
 
 👯 I’m looking to collaborate on opensource projects that can help me grow, learn new technologies, and learn about the innerworkings of larger projects.
 
