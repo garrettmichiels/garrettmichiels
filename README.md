@@ -46,6 +46,6 @@ Authentication
 
 🌱 I’m looking to get more customer facing and to grow my understanding of product!
 
-👯 I’m looking to collaborate on opensource projects that can help me grow, learn new technologies, and learn about the innerworkings of larger projects.
-
 💬 Ask me about what I like to do for fun or about my other interests!
+
+[Check out my website!](https://garrettmichiels.com/)
